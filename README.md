@@ -8,3 +8,4 @@ GIT AND GITHUB
 6) git *.<file extention> (ex. git *.html or git *.css);
 7) git add -A (add all files and directories of your project);
 8) git reset HEAD <filename> (remove a file from the staging area);
+9) .gitignore (a file, not a command);
