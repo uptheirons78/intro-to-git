@@ -9,3 +9,6 @@ GIT AND GITHUB
 7) git add -A (add all files and directories of your project);
 8) git reset HEAD <filename> (remove a file from the staging area);
 9) .gitignore (a file, not a command);
+10) git branch (list all branches);
+11) git checkout -b <branchname> (create new branch);
+12) git checkout <branchname> (switch to another branch of the list);
