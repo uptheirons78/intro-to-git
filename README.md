@@ -12,3 +12,4 @@ GIT AND GITHUB
 10) git branch (list all branches);
 11) git checkout -b <branchname> (create new branch);
 12) git checkout <branchname> (switch to another branch of the list);
+13) git branch -d <branchname> (remove a specific branch);
