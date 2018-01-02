@@ -5,3 +5,4 @@ GIT AND GITHUB
 3) git add;
 4) git commit -m "";
 5) git log;
+6) git *.<file extention> (ex. git *.html or git *.css);
