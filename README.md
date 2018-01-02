@@ -14,3 +14,5 @@ GIT AND GITHUB
 12) git checkout <branchname> (switch to another branch of the list);
 13) git branch -d <branchname> (remove a specific branch);
 14) git merge <branchname> (merge a branch in master);
+15) git remote add origin <url> (first step to push a repo to github);
+16) git push -u origin master (second step to push a repo to github);
