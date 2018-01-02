@@ -13,3 +13,4 @@ GIT AND GITHUB
 11) git checkout -b <branchname> (create new branch);
 12) git checkout <branchname> (switch to another branch of the list);
 13) git branch -d <branchname> (remove a specific branch);
+14) git merge <branchname> (merge a branch in master);
